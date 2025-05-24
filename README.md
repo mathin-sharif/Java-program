@@ -1,2 +1,1 @@
-# Java-program
-# basic algorithms
+# Core java
